@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(darkmagenta 0%, magenta 100%);
+    background-position: center;
+    background-size: cover;
+}
+
+#login_div_1, #login_div_2 {
+    background-color: white;
+    float: none;
+    padding: 10;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.title {
+    font-size: 45;
+    color: white;
+}
+
+.btn {
+    background-color: rgb(0, 255, 229);
+    color: black;
+}
+
+#player1name, #player2name, #player1score, #player2score {
+    color: black;
+}
+
+#output {
+    background-color: pink;
+    border-radius: 15px;
+    padding: 10px;
+    border-top: 5px solid black;
+    float: none;
+    text-align: left;
+}
